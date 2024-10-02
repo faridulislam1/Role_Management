@@ -2,7 +2,7 @@
 @extends('backend.layouts.master')
 
 @section('title')
-Dashboard Page - Admin Panel
+Dashboard Page - Admin Panel dasdsfdsf
 @endsection
 
 

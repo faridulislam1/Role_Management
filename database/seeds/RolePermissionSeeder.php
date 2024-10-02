@@ -87,6 +87,16 @@ class RolePermissionSeeder extends Seeder
                     'profile.update',
                 ]
             ],
+            [
+                'group_name'=>'category',
+                'permissions' => [
+                    // category Permissions
+                    'category.view',
+                    'category.edit',
+                    'category.delete',
+                    'category.update',
+                ]
+            ],
         ];
 
 
